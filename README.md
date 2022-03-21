@@ -20,7 +20,7 @@ Today, my mission is to improve static analysis experience. Follow me for the up
  - ELFPack projects for Sony Ericsson.
 ----
 
-<a href="https://twitter.com/ultrashotru">
+<a href="https://twitter.com/_ultrashot">
   <img width="25px" alt="My Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
 </a>
 <a href="https://www.linkedin.com/in/maxim-menshikov">
