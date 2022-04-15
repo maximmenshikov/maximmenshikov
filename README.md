@@ -1,11 +1,11 @@
 ## Hi there!
 
-I am **Maxim Menshikov**, a researcher & software engineer living in St. Petersburg, Russia. My passion is developing a static analysis framework and all the infrastructure around it. Besides that, I have spent many years in reverse engineering.
+I am **Maxim Menshikov**, a researcher & technical leader. My passion is developing a static analysis framework and all the infrastructure around it. Besides that, I have spent many years in reverse engineering.
 
 Today, my mission is to improve static analysis experience. Follow me for the updates on that direction!
 
 ### My current projects
- - **С/C++ static analyzer**: abstract interpretation and model checking all in one (private source mode until it is more or less ready).
+ - **С/C++ static analyzer**: abstract interpretation and model checking, all in one (private source mode until it is more or less ready).
  - **libasp**: remote invocation for static analyzer.
  - **fmtparser**: parsing of format strings.
  - Infrastructure projects for all aspects of static analysis.
