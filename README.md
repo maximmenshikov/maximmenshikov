@@ -4,6 +4,15 @@ I am **Maxim Menshikov**, a static analysis researcher and CEO of [@interpretica
 
 Today, my mission is to improve static analysis experience. Follow me for the updates on that direction!
 
+### Top languages
+Actual breakdown of my current R&D effort:
+- Rust (45%)
+- C++ (40%)
+- The rest (15%)
+
+Global stats:
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=maximmenshikov&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ### My current projects
  - **С/C++/Go static analyzer**: abstract interpretation and model checking, all in one (private source mode until it is more or less ready).
  - [**Isabelle platform**](https://github.com/isabelle-platform): high-performance web servers for modern applications.
@@ -19,6 +28,7 @@ Today, my mission is to improve static analysis experience. Follow me for the up
  - **OSBuilder for WM**: ImgFS building tools and other minor tools.
  - Windows Mobile virtual memory research.
  - ELFPack projects for Sony Ericsson.
+
 ----
 
 <a href="https://twitter.com/_ultrashot">
