@@ -11,6 +11,7 @@ Actual breakdown of my current R&D effort:
 - The rest (15%)
 
 Global stats:
+
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=maximmenshikov&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### My current projects
