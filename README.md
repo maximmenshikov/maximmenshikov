@@ -30,6 +30,10 @@ Global stats:
  - Windows Mobile virtual memory research.
  - ELFPack projects for Sony Ericsson.
 
+### Minor things
+ - I maintain [No Identity](https://noidentity.eu)
+ - Some time ago I dropped support for [Rational Development](https://rational-dev.github.io)
+
 ----
 
 <a href="https://twitter.com/_ultrashot">
