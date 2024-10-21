@@ -1,6 +1,6 @@
 ## Hi there!
 
-I am **Maxim Menshikov**, a static analysis researcher and CEO of @interpretica-io. My passion is developing a static analysis framework and all the infrastructure around it. Besides that, I have spent many years in reverse engineering.
+I am **Maxim Menshikov**, a static analysis researcher and CEO of [@interpretica-io](https://github.com/interpretica-io). My passion is developing a static analysis framework and all the infrastructure around it.
 
 Today, my mission is to improve static analysis experience. Follow me for the updates on that direction!
 
@@ -11,7 +11,7 @@ Today, my mission is to improve static analysis experience. Follow me for the up
  - Infrastructure projects for all aspects of static analysis.
 
 ### Some of previous projects
- - Windows Phone 7 **Full Unlock**
+ - Windows Phone 7 **Full Unlock** ("Jailbreak")
  - **Dynamics7** ROM: the first ROM with WP7.8, a base for other custom ROMs.
  - **OSBuilder7** (parts of): relocation for WP7 modules, image building tools, ImgFS building tools.
  - **Dynamics ROM**: one of the most advanced and polished ROMs for Windows Mobile 6.x
