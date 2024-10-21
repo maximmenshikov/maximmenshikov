@@ -7,6 +7,7 @@ Today, my mission is to improve static analysis experience. Follow me for the up
 ### My current projects
  - **С/C++/Go static analyzer**: abstract interpretation and model checking, all in one (private source mode until it is more or less ready).
  - [**Isabelle platform**](https://github.com/isabelle-platform): high-performance web servers for modern applications.
+ - [**Delta API**](https://github.com/interpretica-io/delta-api): API for static analysis invocation.
  - **libasp**: remote invocation for static analyzer.
  - Infrastructure projects for all aspects of static analysis.
 
