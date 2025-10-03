@@ -1,8 +1,11 @@
 ## Hi there!
 
-I am **Maxim Menshikov**, a static analysis researcher and CEO of [@interpretica-io](https://github.com/interpretica-io). My passion is developing a static analysis framework and all the infrastructure around it.
+I am **Maxim Menshikov**, researcher and CEO of [@interpretica-io](https://github.com/interpretica-io).
 
-Today, my mission is to improve static analysis experience. Follow me for the updates on that direction!
+I am researching many areas:
+ - Static analysis.
+ - Blockchain, including zk systems.
+ - Compilers and toolchains.
 
 ### Top languages
 Actual breakdown of my current R&D effort:
