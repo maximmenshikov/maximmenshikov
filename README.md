@@ -14,6 +14,9 @@ Global stats:
 
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=maximmenshikov&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### External projects
+ - Toolchain for C# -> RISC-V compilation.
+
 ### My current projects
  - **С/C++/Go static analyzer**: abstract interpretation and model checking, all in one (private source mode until it is more or less ready).
  - [**Isabelle platform**](https://github.com/isabelle-platform): high-performance web servers for modern applications.
