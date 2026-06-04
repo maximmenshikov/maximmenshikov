@@ -1,11 +1,16 @@
 ## Hi there!
 
-I am **Maxim Menshikov**, researcher and CEO of [@interpretica-io](https://github.com/interpretica-io).
+I am **Maxim Menshikov**, researcher and founder of [@interpretica-io](https://github.com/interpretica-io).
 
-I am researching many areas:
- - Static analysis.
- - Blockchain, including zk systems.
- - Compilers and toolchains.
+My main research areas:
+
+- Static analysis and program verification.
+- Security tooling and vulnerability detection.
+- Compilers, runtimes, and developer tools.
+- Reverse engineering.
+- Embedded and low-level systems.
+- Rust and C/C++ software.
+- Blockchain.
 
 ### Top languages
 Actual breakdown of my current R&D effort:
@@ -21,7 +26,9 @@ Global stats:
  - Toolchain for C# -> RISC-V compilation.
 
 ### My current projects
- - **С/C++/Go static analyzer**: abstract interpretation and model checking, all in one (private source mode until it is more or less ready).
+ - [**Visao**](https://interpretica.io/products#visao): security-focused static analyzer for detecting defects and vulnerabilities in large С/C++/Go/Rust/Python codebases.
+ - [**Delta**](https://interpretica.io/products#delta): intrusion detection tool.
+ - [**Midair**](https://interpretica.io/products#midair): static analysis / testing / vulnerability deteciton tool.
  - [**Isabelle platform**](https://github.com/isabelle-platform): high-performance web servers for modern applications.
  - [**Delta API**](https://github.com/interpretica-io/delta-api): API for static analysis invocation.
  - **libasp**: remote invocation for static analyzer.
