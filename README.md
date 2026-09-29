@@ -12,25 +12,19 @@ My main research areas:
 - Rust and C/C++ software.
 - Blockchain.
 
-### Top languages
-Actual breakdown of my current R&D effort:
-- Rust (45%)
-- C++ (40%)
-- The rest (15%)
-
-Global stats:
+## Language stats
 
 <img width="700" src="https://menshikov.org/images/languages.png"/>
 
 ### External projects
- - Toolchain for C# -> RISC-V compilation.
+ - [**Toolchain for C# -> RISC-V compilation**](https://github.com/nethermindeth/bflat-riscv64)
+ - [**.NET target for zkVMs**](https://github.com/nethermindeth/dotnet-riscv)
 
 ### My current projects
  - [**Visao**](https://interpretica.io/products#visao): security-focused static analyzer for detecting defects and vulnerabilities in large С/C++/Go/Rust/Python codebases.
  - [**Delta**](https://interpretica.io/products#delta): intrusion detection tool.
  - [**Midair**](https://interpretica.io/products#midair): static analysis / testing / vulnerability deteciton tool.
  - [**Isabelle platform**](https://github.com/isabelle-platform): high-performance web servers for modern applications.
- - [**Delta API**](https://github.com/interpretica-io/delta-api): API for static analysis invocation.
  - **libasp**: remote invocation for static analyzer.
  - Infrastructure projects for all aspects of static analysis.
 
