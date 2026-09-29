@@ -20,7 +20,7 @@ Actual breakdown of my current R&D effort:
 
 Global stats:
 
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=maximmenshikov&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img width="700" src="https://menshikov.org/images/languages.png"/>
 
 ### External projects
  - Toolchain for C# -> RISC-V compilation.
