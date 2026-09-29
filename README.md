@@ -29,7 +29,7 @@ My main research areas:
  - Infrastructure projects for all aspects of static analysis.
 
 ### Some of previous projects
- - Windows Phone 7 **Full Unlock** ("Jailbreak")
+ - [Windows Phone 7 **Full Unlock** ("Jailbreak")](https://github.com/stars/maximmenshikov/lists/full-unlock) - now public!
  - **Dynamics7** ROM: the first ROM with WP7.8, a base for other custom ROMs.
  - **OSBuilder7** (parts of): relocation for WP7 modules, image building tools, ImgFS building tools.
  - **Dynamics ROM**: one of the most advanced and polished ROMs for Windows Mobile 6.x
