@@ -30,11 +30,11 @@ My main research areas:
 
 ### Some of previous projects
  - [Windows Phone 7 **Full Unlock** ("Jailbreak")](https://github.com/stars/maximmenshikov/lists/full-unlock) - now public!
- - **Dynamics7** ROM: the first ROM with WP7.8, a base for other custom ROMs.
+ - [**Dynamics7** ROM](https://github.com/dynamics7): the first ROM with WP7.8, a base for other custom ROMs.
  - **OSBuilder7** (parts of): relocation for WP7 modules, image building tools, ImgFS building tools.
- - **Dynamics ROM**: one of the most advanced and polished ROMs for Windows Mobile 6.x
+ - [**Dynamics ROM**](https://github.com/dynamicsrom): one of the most advanced and polished ROMs for Windows Mobile 6.x
  - **OSBuilder for WM**: ImgFS building tools and other minor tools.
- - Windows Mobile virtual memory research.
+ - [Windows Mobile virtual memory research](https://github.com/maximmenshikov/devhealthanalyzer)
  - ELFPack projects for Sony Ericsson.
 
 ### Minor things
